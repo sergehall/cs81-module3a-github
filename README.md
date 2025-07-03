@@ -1,12 +1,7 @@
-# CS 81 – JavaScript Programming
-
-_Santa Monica College, Summer 2025_
-
-Welcome! This project contains my assignments and coursework for **CS 81 – JavaScript Programming** at **Santa Monica College**, Summer 2025.
-
 # cs81-module3a-github
 Function journal with Git tracking
 
+_Santa Monica College, Summer 2025_
 
 # Function Journal
 
