@@ -7,3 +7,8 @@ function greet(name) {
 function isEven(num) {
   return num % 2 === 0;
 }
+
+// Get the square of a number
+function square(num) {
+  return num * num;
+}
