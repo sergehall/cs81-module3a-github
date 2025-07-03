@@ -12,3 +12,8 @@ function isEven(num) {
 function square(num) {
   return num * num;
 }
+
+// Reverse a string
+function reverseString(str) {
+  return str.split('').reverse().join('');
+}
